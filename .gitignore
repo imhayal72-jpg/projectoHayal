@@ -4,12 +4,12 @@ node_modules/
 # Build output
 dist/
 
-# Environment variables - NEVER commit these
+# Environment variables
 .env
 .env.local
 .env.production
 
-# Firebase credentials - NEVER commit these
+# Firebase credentials
 firebase-credentials.json
 *.json.key
 
